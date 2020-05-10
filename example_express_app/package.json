@@ -1,0 +1,14 @@
+{
+  "name": "example_express_app",
+  "version": "1.0.0",
+  "description": "example node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
